@@ -1,5 +1,148 @@
 [
   {
+    "name": "Par 25",
+    "airDate": "2025-08-19",
+    "youtubeUrl": "https://www.youtube.com/watch?v=rbNPQLDooRA",
+    "reviewUrl": "2025-08-19-Par-25",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x18-high":30,"x6-19-24":5,"x6-25-30":10,"x6-31-36":10,"x4-29-33":5}},
+      {"wheelType":1,"wagers":{"x18-high":35,"x6-19-24":10,"x6-25-30":15,"x6-31-36":15,"x4-29-33":10}},
+      {"wheelType":1,"wagers":{"x18-high":40,"x6-19-24":15,"x6-25-30":20,"x6-31-36":20,"x4-29-33":15}} 
+    ],
+    "systemType": "Positive Progression",
+    "buyIn": 400,
+    "bets": [
+      60, 85, 110
+    ],
+    "rating": "a",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "20",
+        "amountBet": 60,
+        "result": 30,
+        "time": "1:20"
+      },
+      {
+        "spin": 2,
+        "number": "8",
+        "amountBet": 85,
+        "result": -85,
+        "displayedResult": -60,
+        "time": "2:00"
+      },
+      {
+        "spin": 3,
+        "number": "2",
+        "amountBet": 60,
+        "result": -60,
+        "time": "3:08"
+      },
+      {
+        "spin": 4,
+        "number": "36",
+        "amountBet": 60,
+        "result": 60,
+        "time": "3:58"
+      },
+      {
+        "spin": 5,
+        "number": "10",
+        "amountBet": 110,
+        "result": -110,
+        "displayedResult": -60,
+        "time": "4:41"
+      },
+      {
+        "spin": 6,
+        "number": "24",
+        "amountBet": 60,
+        "result": 30,
+        "time": "5:16"
+      },
+      {
+        "spin": 7,
+        "number": "35",
+        "amountBet": 85,
+        "result": 75,
+        "time": "6:03"
+      },
+      {
+        "spin": 8,
+        "number": "2",
+        "amountBet": 60,
+        "result": -60,
+        "time": "6:38"
+      },
+      {
+        "spin": 9,
+        "number": "35",
+        "amountBet": 60,
+        "result": 60,
+        "displayedResult": 75,
+        "time": "7:10"
+      },
+      {
+        "spin": 10,
+        "number": "18",
+        "amountBet": 110,
+        "result": -110,
+        "time": "7:44"
+      },
+      {
+        "spin": 11,
+        "number": "27",
+        "amountBet": 60,
+        "result": 60,
+        "time": "8:18"
+      },
+      {
+        "spin": 12,
+        "number": "3",
+        "amountBet": 110,
+        "result": -110,
+        "time": "8:54"
+      },
+      {
+        "spin": 13,
+        "number": "27",
+        "amountBet": 55,
+        "result": 65,
+        "notes": "Not a part of the system",
+        "time": "9:33"
+      },
+      {
+        "spin": 14,
+        "number": "9",
+        "amountBet": 110,
+        "result": -110,
+        "time": "10:22"
+      },
+      {
+        "spin": 15,
+        "number": "5",
+        "amountBet": 60,
+        "result": -60,
+        "time": "10:48"
+      }
+    ]
+  },
+  {
     "name": "Battleship",
     "airDate": "2025-08-17",
     "youtubeUrl": "https://www.youtube.com/watch?v=Xj60r68JJNo",
