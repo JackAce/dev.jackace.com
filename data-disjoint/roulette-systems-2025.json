@@ -1,5 +1,195 @@
 [
   {
+    "name": "Battleship",
+    "airDate": "2025-08-17",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Xj60r68JJNo",
+    "reviewUrl": "2025-08-17-Battleship",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png"
+      
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x12-doz2":25,"x1-25":5,"x1-29":5,"x1-32":5,"x1-34":5}},
+      {"wheelType":1,"wagers":{"x2-0-00":5,"x12-doz2":35,"x1-28":5,"x1-31":5,"x1-29":5,"x1-32":5}},
+      {"wheelType":1,"wagers":{"x2-0-00":10,"x12-doz2":45,"x1-28":5,"x1-31":5,"x1-29":5,"x1-32":5}},
+      {"wheelType":1,"wagers":{"x12-doz2":55,"x1-34":5,"x1-35":5,"x1-32":5,"x1-31":5,"x2-0-00":20}} 
+    ],
+    "systemType": "Negative Progression",
+    "buyIn": 400,
+    "bets": [
+      45, 60, 75, 95
+    ],
+    "rating": "d",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "2",
+        "amountBet": 45,
+        "result": -45,
+        "time": "1:08"
+      },
+      {
+        "spin": 2,
+        "number": "30",
+        "amountBet": 60,
+        "result": -60,
+        "time": "1:27"
+      },
+      {
+        "spin": 3,
+        "number": "23",
+        "amountBet": 75,
+        "result": 60,
+        "time": "1:47"
+      },
+      {
+        "spin": 4,
+        "number": "5",
+        "amountBet": 45,
+        "result": -45,
+        "time": "2:43"
+      },
+      {
+        "spin": 5,
+        "number": "28",
+        "amountBet": 60,
+        "result": 120,
+        "time": "3:32"
+      },
+      {
+        "spin": 6,
+        "number": "36",
+        "amountBet": 60,
+        "result": -60,
+        "time": "3:51"
+      },
+      {
+        "spin": 7,
+        "number": "16",
+        "amountBet": 75,
+        "result": 60,
+        "displayedResult": 65,
+        "time": "4:18"
+      },
+      {
+        "spin": 8,
+        "number": "31",
+        "amountBet": 45,
+        "result": 135,
+        "displayedResult": 125,
+        "time": "5:01"
+      },
+      {
+        "spin": 9,
+        "number": "6",
+        "amountBet": 60,
+        "result": -60,
+        "time": "5:37"
+      },
+      {
+        "spin": 10,
+        "number": "1",
+        "amountBet": 75,
+        "result": -75,
+        "time": "6:00"
+      },
+      {
+        "spin": 11,
+        "number": "25",
+        "amountBet": 45,
+        "result": -45,
+        "time": "6:21"
+      },
+      {
+        "spin": 12,
+        "number": "0",
+        "amountBet": 60,
+        "result": 30,
+        "displayedResult": -60,
+        "time": "6:34"
+      },
+      {
+        "spin": 13,
+        "number": "36",
+        "amountBet": 45,
+        "result": 135,
+        "time": "7:24"
+      },
+      {
+        "spin": 14,
+        "number": "21",
+        "amountBet": 50,
+        "result": 25,
+        "notes": "Not a part of the system",
+        "time": "7:57"
+      },
+      {
+        "spin": 15,
+        "number": "24",
+        "amountBet": 45,
+        "result": 25,
+        "displayedResult": 30,
+        "time": "8:24"
+      },
+      {
+        "spin": 16,
+        "number": "30",
+        "amountBet": 45,
+        "result": -45,
+        "time": "8:42"
+      },
+      {
+        "spin": 17,
+        "number": "29",
+        "amountBet": 45,
+        "result": -45,
+        "time": "9:11"
+      },
+      {
+        "spin": 18,
+        "number": "36",
+        "amountBet": 75,
+        "result": -75,
+        "time": "9:42"
+      },
+      {
+        "spin": 19,
+        "number": "34",
+        "amountBet": 95,
+        "result": 85,
+        "displayedResult": 95,
+        "time": "10:08"
+      },
+      {
+        "spin": 20,
+        "number": "19",
+        "amountBet": 45,
+        "result": 30,
+        "time": "10:21"
+      },
+      {
+        "spin": 21,
+        "number": "8",
+        "amountBet": 45,
+        "result": -45,
+        "time": "10:34"
+      }
+    ]
+  },
+  {
     "name": "Step on the Grass",
     "airDate": "2025-08-16",
     "youtubeUrl": "https://www.youtube.com/watch?v=abuqbukKwOU",
