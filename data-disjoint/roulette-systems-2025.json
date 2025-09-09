@@ -1,5 +1,216 @@
 [
   {
+    "name": "From the Streets",
+    "airDate": "2025-08-22",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ActdDF9nO-k",
+    "reviewUrl": "2025-08-22-From-the-Streets",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x6-16-21":5,"x6-22-27":5,"x6-28-33":5}},
+      {"wheelType":1,"wagers":{"x6-10-15":5,"x6-13-18":5,"x6-16-21":5,"x6-19-24":5,"x6-22-27":5,"x6-25-30":5}},
+      {"wheelType":1,"wagers":{"x6-10-15":10,"x6-13-18":10,"x6-16-21":10,"x6-19-24":10,"x6-22-27":10,"x4-13-17":5,"x4-20-24":5}} 
+    ],
+    "systemType": "Positive Progression",
+    "buyIn": 150,
+    "bets": [
+      15, 30, 60
+    ],
+    "rating": "a",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "21",
+        "amountBet": 15,
+        "result": 15,
+        "time": "1:22"
+      },
+      {
+        "spin": 2,
+        "number": "10",
+        "amountBet": 30,
+        "result": 0,
+        "time": "1:40"
+      },
+      {
+        "spin": 3,
+        "number": "14",
+        "amountBet": 30,
+        "result": 30,
+        "time": "2:14"
+      },
+      {
+        "spin": 4,
+        "number": "13",
+        "amountBet": 60,
+        "result": 105,
+        "time": "3:03"
+      },
+      {
+        "spin": 5,
+        "number": "7",
+        "amountBet": 15,
+        "result": -15,
+        "time": "3:56"
+      },
+      {
+        "spin": 6,
+        "number": "33",
+        "amountBet": 15,
+        "result": -15,
+        "time": "4:11"
+      },
+      {
+        "spin": 7,
+        "number": "25",
+        "amountBet": 15,
+        "result": 15,
+        "time": "4:17"
+      },
+      {
+        "spin": 8,
+        "number": "34",
+        "amountBet": 30,
+        "result": -30,
+        "time": "4:32"
+      },
+      {
+        "spin": 9,
+        "number": "14",
+        "amountBet": 15,
+        "result": 15,
+        "time": "4:40"
+      },
+      {
+        "spin": 10,
+        "number": "35",
+        "amountBet": 30,
+        "result": -30,
+        "time": "5:14"
+      },
+      {
+        "spin": 11,
+        "number": "1",
+        "amountBet": 15,
+        "result": -15,
+        "time": "5:34"
+      },
+      {
+        "spin": 12,
+        "number": "25",
+        "amountBet": 15,
+        "result": 15,
+        "displayedResult": -15,
+        "time": "6:03"
+      },
+      {
+        "spin": 13,
+        "number": "7",
+        "amountBet": 30,
+        "result": -30,
+        "time": "6:24"
+      },
+      {
+        "spin": 14,
+        "number": "00",
+        "amountBet": 15,
+        "result": -15,
+        "time": "6:39"
+      },
+      {
+        "spin": 15,
+        "number": "22",
+        "amountBet": 15,
+        "result": 15,
+        "time": "7:04"
+      },
+      {
+        "spin": 16,
+        "number": "12",
+        "amountBet": 30,
+        "result": -30,
+        "time": "7:26"
+      },
+      {
+        "spin": 17,
+        "number": "16",
+        "amountBet": 15,
+        "result": 15,
+        "time": "7:46"
+      },
+      {
+        "spin": 18,
+        "number": "18",
+        "amountBet": 30,
+        "result": 30,
+        "time": "8:14"
+      },
+      {
+        "spin": 19,
+        "number": "25",
+        "amountBet": 60,
+        "result": 60,
+        "time": "8:28"
+      },
+      {
+        "spin": 20,
+        "number": "2",
+        "amountBet": 30,
+        "result": -30,
+        "notes": "Not a part of the system",
+        "time": "9:38"
+      },
+      {
+        "spin": 21,
+        "number": "15",
+        "amountBet": 15,
+        "result": -15,
+        "time": "9:59"
+      },
+      {
+        "spin": 22,
+        "number": "14",
+        "amountBet": 15,
+        "result": -15,
+        "time": "10:08"
+      },
+      {
+        "spin": 23,
+        "number": "2",
+        "amountBet": 15,
+        "result": -15,
+        "time": "10:27"
+      },
+      {
+        "spin": 24,
+        "number": "7",
+        "amountBet": 15,
+        "result": -15,
+        "time": "10:45"
+      },
+      {
+        "spin": 25,
+        "number": "9",
+        "amountBet": 15,
+        "result": -15,
+        "time": "11:45"
+      }
+    ]
+  },
+  {
     "name": "Built Different",
     "airDate": "2025-08-20",
     "youtubeUrl": "https://www.youtube.com/watch?v=s3pPYnh5tRo",
