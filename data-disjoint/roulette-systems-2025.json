@@ -1,5 +1,148 @@
 [
   {
+    "name": "Double Street with Meatballs",
+    "airDate": "2025-08-26",
+    "youtubeUrl": "https://www.youtube.com/watch?v=KOLMmG7b66Y",
+    "reviewUrl": "2025-08-26-Double-Street-with-Meatballs",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x6-10-15":7,"x6-22-27":7,"x6-16-21":6,"x4-13-17":1,"x4-16-20":1,"x4-19-23":1,"x4-20-24":1,"x4-17-21":1,"x4-14-18":1,"x2-17-20":1}} 
+    ],
+    "systemType": "Flat Bet",
+    "buyIn": 120,
+    "bets": [
+      27
+    ],
+    "rating": "c",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "33",
+        "amountBet": 27,
+        "result": -27,
+        "time": "1:14"
+      },
+      {
+        "spin": 2,
+        "number": "19",
+        "amountBet": 27,
+        "result": 27,
+        "time": "1:27"
+      },
+      {
+        "spin": 3,
+        "number": "36",
+        "amountBet": 27,
+        "result": -27,
+        "time": "2:10"
+      },
+      {
+        "spin": 4,
+        "number": "5",
+        "amountBet": 27,
+        "result": -27,
+        "time": "3:12"
+      },
+      {
+        "spin": 5,
+        "number": "29",
+        "amountBet": 27,
+        "result": -27,
+        "time": "3:40"
+      },
+      {
+        "spin": 6,
+        "number": "4",
+        "amountBet": 27,
+        "result": -27,
+        "time": "3:55"
+      },
+      {
+        "spin": 7,
+        "number": "34",
+        "amountBet": 27,
+        "result": -27,
+        "time": "4:50"
+      },
+      {
+        "spin": 8,
+        "number": "28",
+        "amountBet": 27,
+        "result": -27,
+        "time": "5:23"
+      },
+      {
+        "spin": 9,
+        "number": "25",
+        "amountBet": 27,
+        "result": 15,
+        "time": "5:37"
+      },
+      {
+        "spin": 10,
+        "number": "17",
+        "amountBet": 27,
+        "result": 63,
+        "time": "5:47"
+      },
+      {
+        "spin": 11,
+        "number": "13",
+        "amountBet": 27,
+        "result": 24,
+        "time": "6:32"
+      },
+      {
+        "spin": 12,
+        "number": "22",
+        "amountBet": 27,
+        "result": 24,
+        "time": "7:16"
+      },
+      {
+        "spin": 13,
+        "number": "2",
+        "amountBet": 26,
+        "result": -26,
+        "notes": "Not a part of the system",
+        "time": "7:52"
+      },
+      {
+        "spin": 14,
+        "number": "25",
+        "amountBet": 27,
+        "result": 15,
+        "time": "8:31"
+      },
+      {
+        "spin": 15,
+        "number": "18",
+        "amountBet": 27,
+        "result": 27,
+        "time": "8:44"
+      },
+      {
+        "spin": 16,
+        "number": "2",
+        "amountBet": 27,
+        "result": -27,
+        "time": "9:17"
+      }
+    ]
+  },
+  {
     "name": "4 Bullet and Run",
     "airDate": "2025-08-25",
     "youtubeUrl": "https://www.youtube.com/watch?v=26dks_4i1WE",
