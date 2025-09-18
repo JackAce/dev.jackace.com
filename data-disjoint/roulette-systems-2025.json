@@ -1,5 +1,127 @@
 [
   {
+    "name": "GSM 2.0",
+    "airDate": "2025-08-27",
+    "youtubeUrl": "https://www.youtube.com/watch?v=iivZxtHkf7s",
+    "reviewUrl": "2025-08-27-GSM-20",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png",
+      "00-rba-4-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x12-doz2":30,"x12-doz3":30}},
+      {"wheelType":1,"wagers":{"x12-doz2":20,"x12-doz3":70}},
+      {"wheelType":1,"wagers":{"x6-28-33":20,"x6-22-27":25,"x6-16-21":25,"x6-10-15":25,"x6-4-9":25}},
+      {"wheelType":1,"wagers":{"x6-28-33":20,"x6-22-27":35,"x6-16-21":35,"x6-10-15":35,"x6-4-9":35}},
+      {"wheelType":1,"wagers":{"x6-28-33":20,"x6-22-27":45,"x6-16-21":45,"x6-10-15":45,"x6-4-9":45}} 
+    ],
+    "systemType": "Positive Progression",
+    "buyIn": 300,
+    "bets": [
+      60, 90, 120, 160, 200
+    ],
+    "rating": "a",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "36",
+        "amountBet": 60,
+        "result": 30,
+        "time": "1:22"
+      },
+      {
+        "spin": 2,
+        "number": "33",
+        "amountBet": 90,
+        "result": 120,
+        "time": "1:48"
+      },
+      {
+        "spin": 3,
+        "number": "9",
+        "amountBet": 120,
+        "result": 30,
+        "time": "2:43"
+      },
+      {
+        "spin": 4,
+        "number": "10",
+        "amountBet": 160,
+        "result": 50,
+        "time": "3:55"
+      },
+      {
+        "spin": 5,
+        "number": "0",
+        "amountBet": 200,
+        "result": -200,
+        "time": "4:59"
+      },
+      {
+        "spin": 6,
+        "number": "16",
+        "amountBet": 60,
+        "result": 30,
+        "time": "5:51"
+      },
+      {
+        "spin": 7,
+        "number": "20",
+        "amountBet": 90,
+        "result": 120,
+        "time": "6:22"
+      },
+      {
+        "spin": 8,
+        "number": "5",
+        "amountBet": 120,
+        "result": 30,
+        "time": "6:59"
+      },
+      {
+        "spin": 9,
+        "number": "5",
+        "amountBet": 160,
+        "result": 50,
+        "time": "7:16"
+      },
+      {
+        "spin": 10,
+        "number": "1",
+        "amountBet": 200,
+        "result": 70,
+        "time": "8:12"
+      },
+      {
+        "spin": 11,
+        "number": "36",
+        "amountBet": 60,
+        "result": 30,
+        "time": "8:37"
+      },
+      {
+        "spin": 12,
+        "number": "00",
+        "amountBet": 90,
+        "result": -90,
+        "time": "9:15"
+      }
+    ]
+  },
+  {
     "name": "Double Street with Meatballs",
     "airDate": "2025-08-26",
     "youtubeUrl": "https://www.youtube.com/watch?v=KOLMmG7b66Y",
