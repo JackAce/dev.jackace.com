@@ -1,5 +1,232 @@
 [
   {
+    "name": "Martian the Gambler",
+    "airDate": "2025-08-28",
+    "youtubeUrl": "https://www.youtube.com/watch?v=G9PbVCT3OZ4",
+    "reviewUrl": "2025-08-28-Martian-the-Gambler",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png",
+      "00-rba-4-800x768.png",
+      "00-rba-5-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x18-red":30,"x12-col3":20}},
+      {"wheelType":1,"wagers":{"x18-red":35,"x12-col3":25}},
+      {"wheelType":1,"wagers":{"x18-red":40,"x12-col3":30}},
+      {"wheelType":1,"wagers":{"x18-red":45,"x12-col3":35}},
+      {"wheelType":1,"wagers":{"x18-red":50,"x12-col3":40}},
+      {"wheelType":1,"wagers":{"x18-red":55,"x12-col3":45}} 
+    ],
+    "systemType": "Positive Progression",
+    "buyIn": 800,
+    "bets": [
+      50, 60, 70, 80, 90, 100
+    ],
+    "rating": "c",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "2",
+        "amountBet": 50,
+        "result": -50,
+        "time": "1:28"
+      },
+      {
+        "spin": 2,
+        "number": "9",
+        "amountBet": 50,
+        "result": 70,
+        "time": "2:09"
+      },
+      {
+        "spin": 3,
+        "number": "13",
+        "amountBet": 60,
+        "result": -60,
+        "time": "2:26"
+      },
+      {
+        "spin": 4,
+        "number": "0",
+        "amountBet": 50,
+        "result": -50,
+        "time": "2:54"
+      },
+      {
+        "spin": 5,
+        "number": "10",
+        "amountBet": 50,
+        "result": -50,
+        "time": "3:17"
+      },
+      {
+        "spin": 6,
+        "number": "27",
+        "amountBet": 50,
+        "result": 70,
+        "time": "3:30"
+      },
+      {
+        "spin": 7,
+        "number": "26",
+        "amountBet": 60,
+        "result": -60,
+        "time": "3:52"
+      },
+      {
+        "spin": 8,
+        "number": "23",
+        "amountBet": 50,
+        "result": 10,
+        "time": "4:15"
+      },
+      {
+        "spin": 9,
+        "number": "32",
+        "amountBet": 60,
+        "result": 10,
+        "time": "4:38"
+      },
+      {
+        "spin": 10,
+        "number": "23",
+        "amountBet": 70,
+        "result": 10,
+        "time": "5:13"
+      },
+      {
+        "spin": 11,
+        "number": "1",
+        "amountBet": 80,
+        "result": 10,
+        "time": "5:39"
+      },
+      {
+        "spin": 12,
+        "number": "5",
+        "amountBet": 90,
+        "result": 10,
+        "time": "6:05"
+      },
+      {
+        "spin": 13,
+        "number": "17",
+        "amountBet": 100,
+        "result": -100,
+        "time": "6:23"
+      },
+      {
+        "spin": 14,
+        "number": "3",
+        "amountBet": 50,
+        "result": 70,
+        "time": "6:59"
+      },
+      {
+        "spin": 15,
+        "number": "2",
+        "amountBet": 60,
+        "result": -60,
+        "time": "7:24"
+      },
+      {
+        "spin": 16,
+        "number": "16",
+        "amountBet": 50,
+        "result": 10,
+        "time": "7:47"
+      },
+      {
+        "spin": 17,
+        "number": "8",
+        "amountBet": 60,
+        "result": -60,
+        "time": "8:00"
+      },
+      {
+        "spin": 18,
+        "number": "27",
+        "amountBet": 50,
+        "result": 70,
+        "time": "8:46"
+      },
+      {
+        "spin": 19,
+        "number": "6",
+        "amountBet": 100,
+        "result": 20,
+        "displayedResult": 10,
+        "notes": "Not a part of the system",
+        "time": "9:20"
+      },
+      {
+        "spin": 20,
+        "number": "6",
+        "amountBet": 120,
+        "result": 30,
+        "displayedResult": 10,
+        "notes": "Not a part of the system",
+        "time": "9:45"
+      },
+      {
+        "spin": 21,
+        "number": "0",
+        "amountBet": 150,
+        "result": -150,
+        "time": "10:06"
+      },
+      {
+        "spin": 22,
+        "number": "25",
+        "amountBet": 50,
+        "result": 10,
+        "time": "10:26"
+      },
+      {
+        "spin": 23,
+        "number": "36",
+        "amountBet": 60,
+        "result": 85,
+        "displayedResult": 10,
+        "time": "10:47"
+      },
+      {
+        "spin": 24,
+        "number": "35",
+        "amountBet": 50,
+        "result": -50,
+        "time": "11:24"
+      },
+      {
+        "spin": 25,
+        "number": "34",
+        "amountBet": 50,
+        "result": 10,
+        "time": "11:37"
+      },
+      {
+        "spin": 26,
+        "number": "12",
+        "amountBet": 60,
+        "result": 85,
+        "time": "11:53"
+      }
+    ]
+  },
+  {
     "name": "GSM 2.0",
     "airDate": "2025-08-27",
     "youtubeUrl": "https://www.youtube.com/watch?v=iivZxtHkf7s",
