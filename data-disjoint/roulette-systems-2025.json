@@ -1,5 +1,231 @@
 [
   {
+    "name": "Split the Wheel",
+    "airDate": "2025-08-29",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Wc5RZwv49kw",
+    "reviewUrl": "2025-08-29-Split-the-Wheel",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x12-doz2":40,"x12-doz3":40,"x6-7-12":20,"x3-4-6":10,"x1-3":5}} 
+    ],
+    "systemType": "Flat Bet",
+    "buyIn": 115,
+    "bets": [
+      115
+    ],
+    "rating": "d",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "21",
+        "amountBet": 115,
+        "result": 5,
+        "time": "0:53"
+      },
+      {
+        "spin": 2,
+        "number": "26",
+        "amountBet": 115,
+        "result": 5,
+        "time": "1:09"
+      },
+      {
+        "spin": 3,
+        "number": "13",
+        "amountBet": 115,
+        "result": 5,
+        "time": "1:26"
+      },
+      {
+        "spin": 4,
+        "number": "30",
+        "amountBet": 115,
+        "result": 5,
+        "time": "1:50"
+      },
+      {
+        "spin": 5,
+        "number": "0",
+        "amountBet": 115,
+        "result": -115,
+        "time": "2:10"
+      },
+      {
+        "spin": 6,
+        "number": "24",
+        "amountBet": 115,
+        "result": 5,
+        "time": "2:46"
+      },
+      {
+        "spin": 7,
+        "number": "31",
+        "amountBet": 115,
+        "result": 5,
+        "time": "3:15"
+      },
+      {
+        "spin": 8,
+        "number": "4",
+        "amountBet": 115,
+        "result": 5,
+        "time": "3:41"
+      },
+      {
+        "spin": 9,
+        "number": "35",
+        "amountBet": 115,
+        "result": 5,
+        "time": "4:07"
+      },
+      {
+        "spin": 10,
+        "number": "1",
+        "amountBet": 115,
+        "result": -115,
+        "time": "4:34"
+      },
+      {
+        "spin": 11,
+        "number": "9",
+        "amountBet": 115,
+        "result": 5,
+        "time": "4:54"
+      },
+      {
+        "spin": 12,
+        "number": "8",
+        "amountBet": 115,
+        "result": 5,
+        "time": "5:22"
+      },
+      {
+        "spin": 13,
+        "number": "33",
+        "amountBet": 115,
+        "result": 5,
+        "time": "5:46"
+      },
+      {
+        "spin": 14,
+        "number": "15",
+        "amountBet": 115,
+        "result": 5,
+        "time": "6:13"
+      },
+      {
+        "spin": 15,
+        "number": "12",
+        "amountBet": 115,
+        "result": 5,
+        "time": "6:38"
+      },
+      {
+        "spin": 16,
+        "number": "7",
+        "amountBet": 115,
+        "result": 5,
+        "time": "6:57"
+      },
+      {
+        "spin": 17,
+        "number": "29",
+        "amountBet": 115,
+        "result": 5,
+        "time": "7:17"
+      },
+      {
+        "spin": 18,
+        "number": "16",
+        "amountBet": 115,
+        "result": 5,
+        "time": "7:42"
+      },
+      {
+        "spin": 19,
+        "number": "31",
+        "amountBet": 115,
+        "result": 5,
+        "time": "7:48"
+      },
+      {
+        "spin": 20,
+        "number": "10",
+        "amountBet": 115,
+        "result": 5,
+        "time": "8:10"
+      },
+      {
+        "spin": 21,
+        "number": "17",
+        "amountBet": 115,
+        "result": 5,
+        "time": "8:35"
+      },
+      {
+        "spin": 22,
+        "number": "24",
+        "amountBet": 115,
+        "result": 5,
+        "time": "8:44"
+      },
+      {
+        "spin": 23,
+        "number": "13",
+        "amountBet": 115,
+        "result": 5,
+        "time": "8:51"
+      },
+      {
+        "spin": 24,
+        "number": "17",
+        "amountBet": 115,
+        "result": 5,
+        "time": "8:58"
+      },
+      {
+        "spin": 25,
+        "number": "12",
+        "amountBet": 115,
+        "result": 5,
+        "time": "9:04"
+      },
+      {
+        "spin": 26,
+        "number": "5",
+        "amountBet": 115,
+        "result": 5,
+        "time": "9:11"
+      },
+      {
+        "spin": 27,
+        "number": "14",
+        "amountBet": 115,
+        "result": 5,
+        "time": "9:15"
+      },
+      {
+        "spin": 28,
+        "number": "0",
+        "amountBet": 115,
+        "result": -115,
+        "time": "9:23"
+      }
+    ]
+  },
+  {
     "name": "Martian the Gambler",
     "airDate": "2025-08-28",
     "youtubeUrl": "https://www.youtube.com/watch?v=G9PbVCT3OZ4",
