@@ -1,5 +1,213 @@
 [
   {
+    "name": "Street Regression",
+    "airDate": "2025-08-30",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xvKgbLGqtuA",
+    "reviewUrl": "2025-08-30-Street-Regression",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png",
+      "00-rba-4-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x6-28-33":10,"x6-22-27":10,"x6-16-21":10,"x6-10-15":10,"x6-4-9":10}},
+      {"wheelType":1,"wagers":{"x6-4-9":5,"x6-16-21":5,"x6-22-27":5,"x6-28-33":5}},
+      {"wheelType":1,"wagers":{"x6-10-15":5,"x6-16-21":5,"x6-28-33":5}},
+      {"wheelType":1,"wagers":{"x6-16-21":10,"x6-28-33":10}},
+      {"wheelType":1,"wagers":{"x3-31-33":5,"x3-16-18":5,"x3-19-21":5,"x3-basket":5}} 
+    ],
+    "systemType": "Negative Progression",
+    "buyIn": 250,
+    "bets": [
+      50, 20, 15, 20, 20
+    ],
+    "rating": "d",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "12",
+        "amountBet": 50,
+        "result": 10,
+        "time": "0:56"
+      },
+      {
+        "spin": 2,
+        "number": "00",
+        "amountBet": 20,
+        "result": -20,
+        "time": "1:33"
+      },
+      {
+        "spin": 3,
+        "number": "15",
+        "amountBet": 50,
+        "result": 10,
+        "time": "1:42"
+      },
+      {
+        "spin": 4,
+        "number": "0",
+        "amountBet": 20,
+        "result": -20,
+        "time": "2:12"
+      },
+      {
+        "spin": 5,
+        "number": "24",
+        "amountBet": 50,
+        "result": 10,
+        "time": "2:36"
+      },
+      {
+        "spin": 6,
+        "number": "9",
+        "amountBet": 20,
+        "result": 10,
+        "time": "2:51"
+      },
+      {
+        "spin": 7,
+        "number": "32",
+        "amountBet": 15,
+        "result": 15,
+        "time": "3:25"
+      },
+      {
+        "spin": 8,
+        "number": "12",
+        "amountBet": 20,
+        "result": -20,
+        "time": "3:54"
+      },
+      {
+        "spin": 9,
+        "number": "5",
+        "amountBet": 50,
+        "result": 10,
+        "time": "4:31"
+      },
+      {
+        "spin": 10,
+        "number": "34",
+        "amountBet": 20,
+        "result": -20,
+        "time": "4:52"
+      },
+      {
+        "spin": 11,
+        "number": "9",
+        "amountBet": 50,
+        "result": 10,
+        "time": "5:26"
+      },
+      {
+        "spin": 12,
+        "number": "3",
+        "amountBet": 20,
+        "result": -20,
+        "time": "5:39"
+      },
+      {
+        "spin": 13,
+        "number": "3",
+        "amountBet": 50,
+        "result": -50,
+        "displayedResult": -60,
+        "time": "5:57"
+      },
+      {
+        "spin": 14,
+        "number": "21",
+        "amountBet": 50,
+        "result": 10,
+        "time": "6:46"
+      },
+      {
+        "spin": 15,
+        "number": "26",
+        "amountBet": 20,
+        "result": 10,
+        "time": "7:07"
+      },
+      {
+        "spin": 16,
+        "number": "33",
+        "amountBet": 15,
+        "result": 15,
+        "displayedResult": -15,
+        "time": "7:17"
+      },
+      {
+        "spin": 17,
+        "number": "13",
+        "amountBet": 20,
+        "result": -20,
+        "time": "7:45"
+      },
+      {
+        "spin": 18,
+        "number": "3",
+        "amountBet": 50,
+        "result": -50,
+        "time": "8:24"
+      },
+      {
+        "spin": 19,
+        "number": "4",
+        "amountBet": 50,
+        "result": 10,
+        "time": "8:41"
+      },
+      {
+        "spin": 20,
+        "number": "28",
+        "amountBet": 20,
+        "result": 10,
+        "time": "9:01"
+      },
+      {
+        "spin": 21,
+        "number": "7",
+        "amountBet": 15,
+        "result": -15,
+        "time": "9:20"
+      },
+      {
+        "spin": 22,
+        "number": "18",
+        "amountBet": 50,
+        "result": 10,
+        "time": "9:42"
+      },
+      {
+        "spin": 23,
+        "number": "2",
+        "amountBet": 20,
+        "result": 10,
+        "time": "9:54"
+      },
+      {
+        "spin": 24,
+        "number": "0",
+        "amountBet": 15,
+        "result": -15,
+        "time": "10:12"
+      }
+    ]
+  },
+  {
     "name": "Split the Wheel",
     "airDate": "2025-08-29",
     "youtubeUrl": "https://www.youtube.com/watch?v=Wc5RZwv49kw",
