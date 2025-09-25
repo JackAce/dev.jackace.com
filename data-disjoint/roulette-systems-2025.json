@@ -1,5 +1,222 @@
 [
   {
+    "name": "Doomsday 2.0",
+    "airDate": "2025-09-02",
+    "youtubeUrl": "https://www.youtube.com/watch?v=HIJRPXR0NxY",
+    "reviewUrl": "2025-09-02-Doomsday-20",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x4-13-17":5,"x4-20-24":5,"x4-25-29":5,"x4-32-36":5,"x2-19-22":5}},
+      {"wheelType":1,"wagers":{"x12-doz2":50,"x12-doz3":50}}, 
+      {"wheelType":1,"wagers":{"x18-high":125}} 
+    ],
+    "systemType": "Negative Progression",
+    "buyIn": 250,
+    "bets": [
+      25, 100, 125
+    ],
+    "rating": "d",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "25",
+        "amountBet": 25,
+        "result": 20,
+        "time": "0:52"
+      },
+      {
+        "spin": 2,
+        "number": "14",
+        "amountBet": 25,
+        "result": 20,
+        "time": "1:14"
+      },
+      {
+        "spin": 3,
+        "number": "3",
+        "amountBet": 25,
+        "result": -25,
+        "time": "1:48"
+      },
+      {
+        "spin": 4,
+        "number": "2",
+        "amountBet": 100,
+        "result": -100,
+        "time": "2:16"
+      },
+      {
+        "spin": 5,
+        "number": "16",
+        "amountBet": 125,
+        "result": -125,
+        "time": "2:37"
+      },
+      {
+        "spin": 6,
+        "number": "21",
+        "amountBet": 20,
+        "result": 25,
+        "notes": "Not a part of the system",
+        "time": "3:01"
+      },
+      {
+        "spin": 7,
+        "number": "9",
+        "amountBet": 25,
+        "result": -25,
+        "time": "3:20"
+      },
+      {
+        "spin": 8,
+        "number": "00",
+        "amountBet": 100,
+        "result": -100,
+        "time": "3:49"
+      },
+      {
+        "spin": 9,
+        "number": "00",
+        "amountBet": 125,
+        "result": -125,
+        "time": "4:06"
+      },
+      {
+        "spin": 10,
+        "number": "3",
+        "amountBet": 25,
+        "result": -25,
+        "time": "4:37"
+      },
+      {
+        "spin": 11,
+        "number": "32",
+        "amountBet": 25,
+        "result": 20,
+        "time": "4:54"
+      },
+      {
+        "spin": 12,
+        "number": "16",
+        "amountBet": 25,
+        "result": 20,
+        "time": "5:07"
+      },
+      {
+        "spin": 13,
+        "number": "11",
+        "amountBet": 25,
+        "result": -25,
+        "time": "5:43"
+      },
+      {
+        "spin": 14,
+        "number": "8",
+        "amountBet": 25,
+        "result": -25,
+        "time": "5:59"
+      },
+      {
+        "spin": 15,
+        "number": "5",
+        "amountBet": 125,
+        "result": -125,
+        "time": "6:37"
+      },
+      {
+        "spin": 16,
+        "number": "00",
+        "amountBet": 25,
+        "result": -25,
+        "time": "6:52"
+      },
+      {
+        "spin": 17,
+        "number": "20",
+        "amountBet": 100,
+        "result": 50,
+        "time": "7:06"
+      },
+      {
+        "spin": 18,
+        "number": "30",
+        "amountBet": 25,
+        "result": -25,
+        "time": "7:48"
+      },
+      {
+        "spin": 19,
+        "number": "4",
+        "amountBet": 100,
+        "result": -100,
+        "time": "8:20"
+      },
+      {
+        "spin": 20,
+        "number": "26",
+        "amountBet": 125,
+        "result": 125,
+        "time": "8:32"
+      },
+      {
+        "spin": 21,
+        "number": "17",
+        "amountBet": 25,
+        "result": 20,
+        "time": "9:14"
+      },
+      {
+        "spin": 22,
+        "number": "19",
+        "amountBet": 25,
+        "result": 65,
+        "time": "9:26"
+      },
+      {
+        "spin": 23,
+        "number": "6",
+        "amountBet": 25,
+        "result": -25,
+        "time": "9:41"
+      },
+      {
+        "spin": 24,
+        "number": "7",
+        "amountBet": 100,
+        "result": -100,
+        "time": "10:01"
+      },
+      {
+        "spin": 25,
+        "number": "26",
+        "amountBet": 125,
+        "result": 125,
+        "time": "10:28"
+      },
+      {
+        "spin": 26,
+        "number": "15",
+        "amountBet": 0,
+        "result": 0,
+        "time": "10:37"
+      }
+    ]
+  },
+  {
     "name": "Street Regression",
     "airDate": "2025-08-30",
     "youtubeUrl": "https://www.youtube.com/watch?v=xvKgbLGqtuA",
