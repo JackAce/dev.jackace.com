@@ -1,5 +1,259 @@
 [
   {
+    "name": "Best of Both Worlds",
+    "airDate": "2025-09-04",
+    "youtubeUrl": "https://www.youtube.com/watch?v=422lRrPjOm0",
+    "reviewUrl": "2025-09-04-Best-of-Both-Worlds",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x12-doz2":10,"x12-doz3":10}},
+      {"wheelType":1,"wagers":{"x12-doz2":20,"x12-doz3":10}},
+      {"wheelType":1,"wagers":{"x12-doz2":40,"x12-doz3":20}},
+      {"wheelType":1,"wagers":{"x4-13-17":10,"x4-14-18":10,"x4-19-23":10,"x4-20-24":10,"x3-13-15":5,"x6-13-18":5,"x3-16-18":5,"x6-16-21":5,"x3-19-21":5,"x6-19-24":5,"x3-22-24":5}} 
+    ],
+    "systemType": "Positive Progression",
+    "buyIn": 200,
+    "bets": [
+      20, 30, 60, 75
+    ],
+    "rating": "b",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "6",
+        "amountBet": 20,
+        "result": -20,
+        "time": "1:27"
+      },
+      {
+        "spin": 2,
+        "number": "3",
+        "amountBet": 20,
+        "result": -20,
+        "time": "1:37"
+      },
+      {
+        "spin": 3,
+        "number": "30",
+        "amountBet": 20,
+        "result": 10,
+        "time": "1:59"
+      },
+      {
+        "spin": 4,
+        "number": "7",
+        "amountBet": 30,
+        "result": -30,
+        "time": "2:06"
+      },
+      {
+        "spin": 5,
+        "number": "16",
+        "amountBet": 20,
+        "result": 10,
+        "time": "2:13"
+      },
+      {
+        "spin": 6,
+        "number": "17",
+        "amountBet": 30,
+        "result": 30,
+        "time": "2:39"
+      },
+      {
+        "spin": 7,
+        "number": "23",
+        "amountBet": 60,
+        "result": 60,
+        "displayedResult": 70,
+        "time": "2:54"
+      },
+      {
+        "spin": 8,
+        "number": "16",
+        "amountBet": 75,
+        "result": 135,
+        "time": "3:14"
+      },
+      {
+        "spin": 9,
+        "number": "15",
+        "amountBet": 20,
+        "result": 10,
+        "time": "3:55"
+      },
+      {
+        "spin": 10,
+        "number": "34",
+        "amountBet": 30,
+        "result": 0,
+        "time": "4:09"
+      },
+      {
+        "spin": 11,
+        "number": "22",
+        "amountBet": 30,
+        "result": -30,
+        "time": "4:15"
+      },
+      {
+        "spin": 12,
+        "number": "32",
+        "amountBet": 20,
+        "result": 10,
+        "time": "4:21"
+      },
+      {
+        "spin": 13,
+        "number": "17",
+        "amountBet": 30,
+        "result": 0,
+        "time": "4:49"
+      },
+      {
+        "spin": 14,
+        "number": "36",
+        "amountBet": 30,
+        "result": 30,
+        "time": "5:01"
+      },
+      {
+        "spin": 15,
+        "number": "3",
+        "amountBet": 60,
+        "result": 0,
+        "time": "5:22"
+      },
+      {
+        "spin": 16,
+        "number": "29",
+        "amountBet": 60,
+        "result": 60,
+        "time": "5:37"
+      },
+      {
+        "spin": 17,
+        "number": "25",
+        "amountBet": 75,
+        "result": -75,
+        "time": "6:09"
+      },
+      {
+        "spin": 18,
+        "number": "26",
+        "amountBet": 20,
+        "result": 10,
+        "time": "6:37"
+      },
+      {
+        "spin": 19,
+        "number": "8",
+        "amountBet": 30,
+        "result": 30,
+        "time": "7:04"
+      },
+      {
+        "spin": 20,
+        "number": "24",
+        "amountBet": 60,
+        "result": 0,
+        "time": "7:15"
+      },
+      {
+        "spin": 21,
+        "number": "4",
+        "amountBet": 60,
+        "result": -60,
+        "time": "7:36"
+      },
+      {
+        "spin": 22,
+        "number": "30",
+        "amountBet": 20,
+        "result": 10,
+        "time": "7:53"
+      },
+      {
+        "spin": 23,
+        "number": "0",
+        "amountBet": 30,
+        "result": -30,
+        "time": "8:07"
+      },
+      {
+        "spin": 24,
+        "number": "33",
+        "amountBet": 20,
+        "result": 10,
+        "time": "8:32"
+      },
+      {
+        "spin": 25,
+        "number": "00",
+        "amountBet": 30,
+        "result": -30,
+        "time": "8:42"
+      },
+      {
+        "spin": 26,
+        "number": "24",
+        "amountBet": 20,
+        "result": 10,
+        "time": "8:50"
+      },
+      {
+        "spin": 27,
+        "number": "8",
+        "amountBet": 30,
+        "result": -30,
+        "time": "8:58"
+      },
+      {
+        "spin": 28,
+        "number": "36",
+        "amountBet": 20,
+        "result": 10,
+        "time": "9:08"
+      },
+      {
+        "spin": 29,
+        "number": "28",
+        "amountBet": 30,
+        "result": 30,
+        "time": "9:29"
+      },
+      {
+        "spin": 30,
+        "number": "1",
+        "amountBet": 60,
+        "result": -60,
+        "time": "9:52"
+      },
+      {
+        "spin": 31,
+        "number": "27",
+        "amountBet": 0,
+        "result": 0,
+        "time": "10:09"
+      }
+    ]
+  },
+  {
     "name": "Doomsday 2.0",
     "airDate": "2025-09-02",
     "youtubeUrl": "https://www.youtube.com/watch?v=HIJRPXR0NxY",
