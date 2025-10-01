@@ -1,5 +1,123 @@
 [
   {
+    "name": "Bankrupt The Casino",
+    "airDate": "2025-09-09",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZRiw4fW5Eck",
+    "reviewUrl": "2025-09-09-Bankrupt-The-Casino",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x1-19":1,"x1-21":1,"x1-23":1,"x1-25":1,"x1-27":1,"x1-29":1,"x1-31":1,"x1-33":1,"x1-35":1,"x18-odd":1,"x18-high":1}},
+      {"wheelType":1,"wagers":{"x1-19":2,"x1-21":2,"x1-23":2,"x1-25":2,"x1-27":2,"x1-29":2,"x1-31":2,"x1-33":2,"x1-35":2,"x18-odd":2,"x18-high":2}},
+      {"wheelType":1,"wagers":{"x1-19":4,"x1-21":4,"x1-23":4,"x1-25":4,"x1-27":4,"x1-29":4,"x1-31":4,"x1-33":4,"x1-35":4,"x18-odd":4,"x18-high":4}} 
+    ],
+    "systemType": "Negative Progression",
+    "buyIn": 700,
+    "bets": [
+      11, 22, 44
+    ],
+    "rating": "c",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "7",
+        "amountBet": 11,
+        "result": -9,
+        "time": "1:38"
+      },
+      {
+        "spin": 2,
+        "number": "26",
+        "amountBet": 11,
+        "result": -9,
+        "time": "2:19"
+      },
+      {
+        "spin": 3,
+        "number": "1",
+        "amountBet": 22,
+        "result": -18,
+        "time": "3:03"
+      },
+      {
+        "spin": 4,
+        "number": "15",
+        "amountBet": 22,
+        "result": -18,
+        "time": "3:55"
+      },
+      {
+        "spin": 5,
+        "number": "17",
+        "amountBet": 44,
+        "result": -36,
+        "time": "4:28"
+      },
+      {
+        "spin": 6,
+        "number": "33",
+        "amountBet": 44,
+        "result": 116,
+        "time": "5:13"
+      },
+      {
+        "spin": 7,
+        "number": "8",
+        "amountBet": 11,
+        "result": -11,
+        "time": "6:02"
+      },
+      {
+        "spin": 8,
+        "number": "30",
+        "amountBet": 11,
+        "result": -9,
+        "time": "7:46"
+      },
+      {
+        "spin": 9,
+        "number": "10",
+        "amountBet": 11,
+        "result": -11,
+        "time": "8:05"
+      },
+      {
+        "spin": 10,
+        "number": "21",
+        "amountBet": 22,
+        "result": 58,
+        "time": "8:33"
+      },
+      {
+        "spin": 11,
+        "number": "7",
+        "amountBet": 11,
+        "result": -9,
+        "time": "9:32"
+      },
+      {
+        "spin": 12,
+        "number": "31",
+        "amountBet": 11,
+        "result": 29,
+        "time": "10:00"
+      }
+    ]
+  },
+  {
     "name": "New Balance",
     "airDate": "2025-09-06",
     "youtubeUrl": "https://www.youtube.com/watch?v=c6ratA9XqrA",
