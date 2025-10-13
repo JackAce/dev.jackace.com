@@ -1,5 +1,234 @@
 [
   {
+    "name": "Roulette Hacker",
+    "airDate": "2025-09-14",
+    "youtubeUrl": "https://www.youtube.com/watch?v=gSRdnW75ZaI",
+    "reviewUrl": "2025-09-14-Roulette-Hacker",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x12-doz1":100,"x12-doz3":100,"x2-17-18":25,"x2-19-20":25,"x2-23-24":25,"x2-13-14":25}},
+      {"wheelType":1,"wagers":{"x12-doz1":200,"x12-doz3":200,"x2-17-18":50,"x2-19-20":50,"x2-23-24":50,"x2-13-14":50}} 
+    ],
+    "systemType": "Positive Progression",
+    "buyIn": 600,
+    "bets": [
+      300, 600
+    ],
+    "rating": "d",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "21",
+        "amountBet": 300,
+        "result": -300,
+        "time": "1:14"
+      },
+      {
+        "spin": 2,
+        "number": "8",
+        "amountBet": 300,
+        "result": 0,
+        "time": "1:44"
+      },
+      {
+        "spin": 3,
+        "number": "9",
+        "amountBet": 300,
+        "result": 0,
+        "time": "1:59"
+      },
+      {
+        "spin": 4,
+        "number": "31",
+        "amountBet": 300,
+        "result": 0,
+        "time": "2:13"
+      },
+      {
+        "spin": 5,
+        "number": "25",
+        "amountBet": 300,
+        "result": 0,
+        "time": "2:30"
+      },
+      {
+        "spin": 6,
+        "number": "6",
+        "amountBet": 300,
+        "result": 0,
+        "time": "2:38"
+      },
+      {
+        "spin": 7,
+        "number": "19",
+        "amountBet": 300,
+        "result": 150,
+        "time": "3:15"
+      },
+      {
+        "spin": 8,
+        "number": "35",
+        "amountBet": 300,
+        "result": 0,
+        "time": "3:31"
+      },
+      {
+        "spin": 9,
+        "number": "14",
+        "amountBet": 300,
+        "result": 150,
+        "time": "3:42"
+      },
+      {
+        "spin": 10,
+        "number": "9",
+        "amountBet": 600,
+        "result": 0,
+        "time": "4:18"
+      },
+      {
+        "spin": 11,
+        "number": "34",
+        "amountBet": 600,
+        "result": 0,
+        "time": "4:50"
+      },
+      {
+        "spin": 12,
+        "number": "32",
+        "amountBet": 600,
+        "result": 0,
+        "time": "5:12"
+      },
+      {
+        "spin": 13,
+        "number": "4",
+        "amountBet": 600,
+        "result": 0,
+        "time": "5:19"
+      },
+      {
+        "spin": 14,
+        "number": "0",
+        "amountBet": 600,
+        "result": -600,
+        "time": "6:45"
+      },
+      {
+        "spin": 15,
+        "number": "12",
+        "amountBet": 300,
+        "result": 0,
+        "time": "7:58"
+      },
+      {
+        "spin": 16,
+        "number": "33",
+        "amountBet": 300,
+        "result": 0,
+        "time": "8:10"
+      },
+      {
+        "spin": 17,
+        "number": "22",
+        "amountBet": 300,
+        "result": -300,
+        "time": "8:16"
+      },
+      {
+        "spin": 18,
+        "number": "1",
+        "amountBet": 300,
+        "result": 0,
+        "time": "8:40"
+      },
+      {
+        "spin": 19,
+        "number": "00",
+        "amountBet": 300,
+        "result": -300,
+        "time": "9:07"
+      },
+      {
+        "spin": 20,
+        "number": "3",
+        "amountBet": 300,
+        "result": 0,
+        "time": "9:47"
+      },
+      {
+        "spin": 21,
+        "number": "29",
+        "amountBet": 300,
+        "result": 0,
+        "time": "10:01"
+      },
+      {
+        "spin": 22,
+        "number": "1",
+        "amountBet": 300,
+        "result": 0,
+        "time": "10:11"
+      },
+      {
+        "spin": 23,
+        "number": "15",
+        "amountBet": 300,
+        "result": -300,
+        "displayedResult": 0,
+        "time": "10:28"
+      },
+      {
+        "spin": 24,
+        "number": "5",
+        "amountBet": 300,
+        "result": 0,
+        "time": "10:46"
+      },
+      {
+        "spin": 25,
+        "number": "11",
+        "amountBet": 300,
+        "result": 0,
+        "time": "11:20"
+      },
+      {
+        "spin": 26,
+        "number": "26",
+        "amountBet": 300,
+        "result": 0,
+        "time": "11:47"
+      },
+      {
+        "spin": 27,
+        "number": "8",
+        "amountBet": 300,
+        "result": 0,
+        "time": "12:02"
+      },
+      {
+        "spin": 28,
+        "number": "23",
+        "amountBet": 300,
+        "result": -300,
+        "time": "12:17"
+      }
+    ]
+  },
+  {
     "name": "Castle Attack",
     "airDate": "2025-09-13",
     "youtubeUrl": "https://www.youtube.com/watch?v=of333NN7-vk",
