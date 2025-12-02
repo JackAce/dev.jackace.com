@@ -1,5 +1,209 @@
 [
   {
+    "name": "Power Press",
+    "airDate": "2025-11-07",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5kGV_hH0D3U",
+    "reviewUrl": "2025-11-07-Power-Press",
+    "rbaImageUrls": [
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png"
+    ],
+     "bettingTiers": [
+      {"wheelType":1,"wagers":{"x12-doz2":15,"x12-doz3":15}},
+      {"wheelType":1,"wagers":{"x12-doz2":30,"x12-doz3":30}},
+      {"wheelType":1,"wagers":{"x12-doz2":25,"x12-doz3":25}},
+      {"wheelType":1,"wagers":{"x12-doz2":50,"x12-doz3":25}} 
+    ],
+    "systemType": "Positive Progression",
+    "buyIn": 300,
+    "bets": [
+      30, 60, 50, 75
+    ],
+    "rating": "b",
+    "jackaceRating": "",
+    "jackaceRatingDetails": {
+      "bettingSimplicity": -1,
+      "progressionSimplicity": -1,
+      "chipUniformity": -1,
+      "jackpotPotential": -1,
+      "scalability": -1,
+      "compValue": -1
+    },
+    "isJackAceReview": false,
+    "notes": "",
+    "spins": [{
+        "spin": 1,
+        "number": "20",
+        "amountBet": 30,
+        "result": 15,
+        "time": "1:13"
+      },
+      {
+        "spin": 2,
+        "number": "27",
+        "amountBet": 60,
+        "result": 30,
+        "time": "1:33"
+      },
+      {
+        "spin": 3,
+        "number": "22",
+        "amountBet": 50,
+        "result": 25,
+        "time": "2:09"
+      },
+      {
+        "spin": 4,
+        "number": "2",
+        "amountBet": 75,
+        "result": -75,
+        "time": "2:48"
+      },
+      {
+        "spin": 5,
+        "number": "32",
+        "amountBet": 30,
+        "result": 15,
+        "time": "3:23"
+      },
+      {
+        "spin": 6,
+        "number": "18",
+        "amountBet": 60,
+        "result": 30,
+        "time": "3:51"
+      },
+      {
+        "spin": 7,
+        "number": "27",
+        "amountBet": 50,
+        "result": 25,
+        "time": "4:04"
+      },
+      {
+        "spin": 8,
+        "number": "17",
+        "amountBet": 75,
+        "result": 75,
+        "time": "4:31"
+      },
+      {
+        "spin": 9,
+        "number": "36",
+        "amountBet": 30,
+        "result": 15,
+        "time": "5:15"
+      },
+      {
+        "spin": 10,
+        "number": "31",
+        "amountBet": 60,
+        "result": 30,
+        "time": "5:43"
+      },
+      {
+        "spin": 11,
+        "number": "2",
+        "amountBet": 50,
+        "result": -50,
+        "time": "6:05"
+      },
+      {
+        "spin": 12,
+        "number": "20",
+        "amountBet": 30,
+        "result": 15,
+        "time": "6:32"
+      },
+      {
+        "spin": 13,
+        "number": "32",
+        "amountBet": 60,
+        "result": 30,
+        "time": "7:01"
+      },
+      {
+        "spin": 14,
+        "number": "8",
+        "amountBet": 50,
+        "result": -50,
+        "time": "7:33"
+      },
+      {
+        "spin": 15,
+        "number": "28",
+        "amountBet": 30,
+        "result": 15,
+        "time": "8:09"
+      },
+      {
+        "spin": 16,
+        "number": "29",
+        "amountBet": 60,
+        "result": 30,
+        "time": "8:29"
+      },
+      {
+        "spin": 17,
+        "number": "9",
+        "amountBet": 50,
+        "result": -50,
+        "time": "9:02"
+      },
+      {
+        "spin": 18,
+        "number": "19",
+        "amountBet": 30,
+        "result": 15,
+        "time": "9:21"
+      },
+      {
+        "spin": 19,
+        "number": "10",
+        "amountBet": 60,
+        "result": -60,
+        "time": "10:04"
+      },
+      {
+        "spin": 20,
+        "number": "12",
+        "amountBet": 30,
+        "result": -30,
+        "time": "10:32"
+      },
+      {
+        "spin": 21,
+        "number": "2",
+        "amountBet": 30,
+        "result": -30,
+        "time": "11:30"
+      },
+      {
+        "spin": 22,
+        "number": "22",
+        "amountBet": 30,
+        "result": 15,
+        "time": "12:17"
+      },
+      {
+        "spin": 23,
+        "number": "5",
+        "amountBet": 60,
+        "result": -60,
+        "time": "12:48"
+      },
+      {
+        "spin": 24,
+        "number": "25",
+        "amountBet": 0,
+        "result": 0,
+        "time": "13:41"
+      }
+    ]
+  },
+  {
     "name": "Afterlife",
     "airDate": "2025-11-06",
     "youtubeUrl": "https://www.youtube.com/watch?v=dq9zarJjAeg",
