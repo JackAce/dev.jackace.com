@@ -16029,7 +16029,10 @@
     "youtubeUrl": "https://www.youtube.com/watch?v=VnLsCVl4mAA",
     "reviewUrl": "2022-03-12-Hold-the-Line",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png"
+      "00-rba-0-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x18-low":10,"x18-even":10,"x18-black":10}}
     ],
     "systemType": "Multi-Leg",
     "buyIn": 5000,
