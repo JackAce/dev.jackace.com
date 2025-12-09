@@ -15679,7 +15679,10 @@
     "youtubeUrl": "https://www.youtube.com/watch?v=x1o-yCqDrxI",
     "reviewUrl": "2022-03-18-Martin-GB",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png"
+      "00-rba-0-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x12-col3":10,"x12-col2":10,"x12-col1":10,"x12-doz1":10,"x18-low":10,"x18-even":10,"x18-red":10,"x12-doz2":10,"x18-black":10,"x18-odd":10,"x12-doz3":10,"x18-high":10}}
     ],
     "systemType": "Multi-Leg",
     "buyIn": 4000,
