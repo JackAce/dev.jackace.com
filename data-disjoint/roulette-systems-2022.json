@@ -16154,7 +16154,10 @@
     "youtubeUrl": "https://www.youtube.com/watch?v=Us2XqddtmCs",
     "reviewUrl": "2022-03-11-Even-Up",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png"
+      "00-rba-0-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x3-4-6":10,"x3-10-12":10,"x3-16-18":10,"x3-22-24":10,"x3-28-30":10,"x3-34-36":10,"x1-2":5,"x1-8":5,"x1-14":5,"x1-20":5,"x1-26":5,"x1-32":5}}
     ],
     "systemType": "Flat Bet",
     "buyIn": 500,
