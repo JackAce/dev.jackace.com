@@ -14965,10 +14965,16 @@
     "reviewUrl": "2022-03-28-MultiLevel-Martingale",
     "jackaceVideoUrl": "https://www.youtube.com/watch?v=gTL9q4EC3G8",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png",
-      "00-rba-1-800x440.png",
-      "00-rba-2-800x440.png",
-      "00-rba-3-800x662.png"
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x18-high":40,"x6-7-12":10,"x6-13-18":10}},
+      {"wheelType":1,"wagers":{"x18-high":120,"x6-7-12":30,"x6-13-18":30}},
+      {"wheelType":1,"wagers":{"x18-high":360,"x6-7-12":90,"x6-13-18":90}},
+      {"wheelType":1,"wagers":{"x18-high":540,"x6-7-12":150,"x6-13-18":150}}
     ],
     "systemType": "Negative Progression",
     "buyIn": 840,
