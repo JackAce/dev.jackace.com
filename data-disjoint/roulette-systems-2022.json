@@ -15394,12 +15394,20 @@
     "youtubeUrl": "https://www.youtube.com/watch?v=aaX-JYz0iDA",
     "reviewUrl": "2022-03-21-Up-and-Down-the-Street",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png",
-      "00-rba-1-800x440.png",
-      "00-rba-2-800x440.png",
-      "00-rba-3-800x440.png",
-      "00-rba-4-800x440.png",
-      "00-rba-5-800x440.png"
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png",
+      "00-rba-4-800x768.png",
+      "00-rba-5-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x6-1-6":25,"x6-7-12":25,"x6-13-18":25,"x6-19-24":25,"x6-25-30":25}},
+      {"wheelType":1,"wagers":{"x6-1-6":30,"x6-7-12":30,"x6-13-18":30,"x6-19-24":30,"x6-25-30":30}},
+      {"wheelType":1,"wagers":{"x6-1-6":35,"x6-7-12":35,"x6-13-18":35,"x6-19-24":35,"x6-25-30":35}},
+      {"wheelType":1,"wagers":{"x6-1-6":40,"x6-7-12":40,"x6-13-18":40,"x6-19-24":40,"x6-25-30":40}},
+      {"wheelType":1,"wagers":{"x6-1-6":45,"x6-7-12":45,"x6-13-18":45,"x6-19-24":45,"x6-25-30":45}},
+      {"wheelType":1,"wagers":{"x6-1-6":50,"x6-7-12":50,"x6-13-18":50,"x6-19-24":50,"x6-25-30":50}}
     ],
     "systemType": "Other",
     "buyIn": 500,
