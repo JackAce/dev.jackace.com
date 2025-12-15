@@ -14097,11 +14097,18 @@
     "youtubeUrl": "https://www.youtube.com/watch?v=nlDowVPBzV0",
     "reviewUrl": "2022-04-09-The-First-Date",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png",
-      "00-rba-1-800x440.png",
-      "00-rba-2-800x440.png",
-      "00-rba-3-800x440.png",
-      "00-rba-4-800x440.png"
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png",
+      "00-rba-4-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x6-4-9":150,"x6-10-15":150,"x6-16-21":150,"x6-22-27":150,"x6-28-33":150}},
+      {"wheelType":1,"wagers":{"x6-4-9":30,"x6-10-15":30,"x6-16-21":30,"x6-22-27":30,"x6-28-33":30}},
+      {"wheelType":1,"wagers":{"x6-4-9":35,"x6-10-15":35,"x6-16-21":35,"x6-22-27":35,"x6-28-33":35}},
+      {"wheelType":1,"wagers":{"x6-4-9":40,"x6-10-15":40,"x6-16-21":40,"x6-22-27":40,"x6-28-33":40}},
+      {"wheelType":1,"wagers":{"x6-4-9":45,"x6-10-15":45,"x6-16-21":45,"x6-22-27":45,"x6-28-33":45}}
     ],
     "systemType": "Other",
     "buyIn": 750,
