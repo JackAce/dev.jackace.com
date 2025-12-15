@@ -14456,10 +14456,16 @@
     "youtubeUrl": "https://www.youtube.com/watch?v=EY5Yig5KIsI",
     "reviewUrl": "2022-04-04-Street-Walk-in-the-Corners",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png",
-      "00-rba-1-800x440.png",
-      "00-rba-2-800x440.png",
-      "00-rba-3-800x440.png"
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png",
+      "00-rba-3-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x1-1":25,"x1-2":25,"x1-4":25,"x1-5":25}},
+      {"wheelType":1,"wagers":{"x1-1":25,"x1-2":25,"x1-4":25,"x1-5":25,"x1-8":25,"x1-9":25,"x1-12":25,"x1-11":25}},
+      {"wheelType":1,"wagers":{"x1-1":25,"x1-2":25,"x1-4":25,"x1-5":25,"x1-8":25,"x1-9":25,"x1-12":25,"x1-11":25,"x1-13":25,"x1-14":25,"x1-17":25,"x1-16":25}},
+      {"wheelType":1,"wagers":{"x1-1":50,"x1-2":50,"x1-4":50,"x1-5":50,"x1-8":50,"x1-9":50,"x1-12":50,"x1-11":50,"x1-13":50,"x1-14":50,"x1-17":50,"x1-16":50}}
     ],
     "systemType": "Negative Progression",
     "buyIn": 1200,
