@@ -14212,9 +14212,14 @@
     "youtubeUrl": "https://www.youtube.com/watch?v=-y_sbXunYWo",
     "reviewUrl": "2022-04-08-Black-Widow",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png",
-      "00-rba-1-800x440.png",
-      "00-rba-2-800x440.png"
+      "00-rba-0-800x768.png",
+      "00-rba-1-800x768.png",
+      "00-rba-2-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x1-0":5,"x1-00":5,"x3-4-6":5,"x3-13-15":5,"x3-22-24":5,"x3-31-33":5,"x12-col2":15,"x12-col1":15,"x18-black":20}},
+      {"wheelType":1,"wagers":{"x1-0":10,"x1-00":10,"x3-4-6":10,"x3-13-15":10,"x3-22-24":10,"x3-31-33":10,"x12-col2":20,"x12-col1":20,"x18-black":25}},
+      {"wheelType":1,"wagers":{"x1-0":15,"x1-00":15,"x3-4-6":15,"x3-13-15":15,"x3-22-24":15,"x3-31-33":15,"x12-col2":25,"x12-col1":25,"x18-black":30}}
     ],
     "systemType": "Other",
     "buyIn": 600,
