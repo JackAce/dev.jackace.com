@@ -14722,7 +14722,10 @@
     "youtubeUrl": "https://www.youtube.com/watch?v=Wmbmt_6INWE",
     "reviewUrl": "2022-04-01-Double-KJ",
     "rbaImageUrls": [
-      "00-rba-0-800x440.png"
+      "00-rba-0-800x768.png"
+    ],
+    "bettingTiers": [
+      {"wheelType":1,"wagers":{"x1-3":1,"x1-2":1,"x1-1":1,"x1-5":1,"x1-9":1,"x1-7":1,"x1-10":1,"x1-15":1,"x1-14":1,"x1-13":1,"x2-17-20":5,"x1-24":1,"x1-23":1,"x1-22":1,"x1-26":1,"x1-30":1,"x1-28":1,"x1-31":1,"x1-34":1,"x1-35":1,"x1-36":1}}
     ],
     "systemType": "Flat Bet",
     "buyIn": 100,
